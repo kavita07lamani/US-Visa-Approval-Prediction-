@@ -7,3 +7,6 @@ setup(
     author_email="entbappy73@gmail.com",
     packages=find_packages()
 )
+
+ git config --global user.email "kavitamlamanigmail.com"
+  git config --global user.name "kavita07lamani "
